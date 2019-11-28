@@ -1,0 +1,189 @@
+body {
+  text-align: center;
+  background-color: #f8f8f8;
+}
+h2{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 35px;
+
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  color: #393e46;
+  font-weight: bold;
+}
+p{
+  color: #393e46;
+  font-family: 'EB Garamond', serif;
+}
+
+.attribution {
+  font-size: 20px;
+  text-align: center;
+}
+
+.attribution a {
+  color: rgb(35, 100, 95);
+  text-decoration: none;
+}
+
+.calculator {
+  height: 250px;
+  width: 300px;
+  background-color: white;
+  border-style:inset;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  text-align: left;
+  box-shadow: 5px 10px 18px #888888;
+  border-top-color: #46b3e6;
+  padding: 3px 20px;
+  position: relative;
+  bottom: 550px;
+  left: 870px;
+
+}
+.calculator-icon{
+  width: 48px;
+  position: relative;
+  left: 240px;
+  top: 60px;
+}
+.calculator-heading{
+  position: relative;
+  right: 80px;
+  left: 0;
+}
+
+.header{
+  text-align: center;
+  color: #222831;
+}
+.header-text{
+  line-height: 0.65;
+  font-size: 14px;
+  color: grey;
+}
+
+.karma {
+  height: 15.625rem;
+  width: 18.75rem;
+  background-color: white;
+  border-style:inset;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  text-align: left;
+  border-top-color: #f6da63;
+  box-shadow: 5px 10px 18px #888888;
+  padding: 3px 20px;
+  position: relative;
+  left: 30.625rem;
+  bottom: 9.375rem;
+
+}
+.karma-icon{
+  width: 48px;
+  position: relative;
+  left: 240px;
+  top: 80px;
+}
+.karma-heading{
+  position: relative;
+  right: 100px;
+  left: 0;
+}
+
+.team-builder {
+  height: 15.625rem;
+  width: 18.75rem;
+  background-color: white;
+  border-style:inset;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  text-align: left;
+  box-shadow: 5px 10px 18px #888888;
+  border-top-color: #fa4252;
+  position: relative;
+  bottom: 11.25rem;
+  left: 30.625rem;
+  padding: 3px 20px;
+
+}
+.team-builder-icon{
+  width: 48px;
+  position: relative;
+  left: 240px;
+  top: 60px;
+}
+.team-builder-heading{
+  position: relative;
+  right: 80px;
+  left: 0;
+  ;
+}
+.title{
+  font-weight:lighter;
+  font-family: sans-serif;
+  color: grey;
+  margin-top: 12.5rem;
+
+}
+.title-header{
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #393e46;
+
+
+}
+.title-text{
+  font-size: 16px;
+}
+.top-container{
+  line-height: 1;
+}
+.header-text{
+  font-size: 14px;
+}
+.top-container{
+  height: 200px;
+  width: 500px;
+  position: relative;
+  left: 420px;
+  top: 50px;
+
+}
+.supervisor {
+  height: 16.625rem;
+  width: 18.75rem;
+  background-color: white;
+  border-style:inset;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  text-align: left;
+  box-shadow: 5px 10px 18px #888888;
+  border-top-color:#51eaea;
+  padding: 3px 20px;
+  position: relative;
+  top: 14.6875rem;
+  left: 6.875rem;
+
+}
+
+.supervisor-icon {
+  width: 48px;
+  position: relative;
+  left: 240px;
+  top: 80px;
+}
+.supervisor-heading{
+  position: relative;
+  right: 80px;
+  left: 0;
+}
+.underline-text{
+  text-decoration: underline;
+}
